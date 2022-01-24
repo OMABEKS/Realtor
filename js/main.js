@@ -1,5 +1,4 @@
 $(function() {
-
   // Скрипт для фиксации header__bottom
   var headerBottom = $('#headerBottom');
   var scrollOffset = $(window).scrollTop();;
